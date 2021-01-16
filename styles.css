@@ -9,3 +9,6 @@ input[type=text] {
     color: brown;
     /* Remove bullets */
 }
+button{
+    background-color: chartreuse;
+}
